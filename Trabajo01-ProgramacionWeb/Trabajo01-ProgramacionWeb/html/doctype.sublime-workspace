@@ -1,0 +1,331 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"D",
+				"DIV\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"audio",
+				"audio_01"
+			],
+			[
+				"S",
+				"STRONG\tTag"
+			],
+			[
+				"H",
+				"H2\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"s",
+				"strong\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"U",
+				"UL\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"cliente",
+				"cliente-servidor"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"clin",
+				"cliente_servidor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pag6/PagWeb06.html",
+			"settings":
+			{
+				"buffer_size": 1247,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PA",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"BROW",
+				"Preferences: Browse Packages"
+			],
+			[
+				"BROWSER",
+				"SFTP: Browse Server…"
+			],
+			[
+				"cONTROL",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/estef/Documents/paula/programacion web/html/pag1/PagWeb01.html",
+		"/C/Users/estef/Documents/paula/programacion web/programacion_web-master/programacion_web-master/chapter_02/src/enlaces/index.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/pag6/PagWeb06.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/pag5/PagWeb05.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/pag6/PagWeb06",
+		"/C/Users/estef/Documents/paula/programacion web/programacion_web-master/programacion_web-master/chapter_02/src/tablas/index.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/pag4/PagWeb04.html",
+		"/C/Users/estef/Documents/paula/programacion web/Cristian franco HTML5/Cristian franco HTML5/calculadora.html",
+		"/C/Users/estef/Documents/paula/programacion web/programacion_web-master/programacion_web-master/chapter_02/src/multimedia/index.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/Pag3/PagWeb03.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/pag2/PagWeb02.html",
+		"/C/Users/estef/Documents/paula/programacion web/Cristian franco HTML5/Cristian franco HTML5/arquitectura.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/pag4/PagWeb04",
+		"/C/Users/estef/Documents/paula/programacion web/html/pag4/PagWEB",
+		"/C/Users/estef/Documents/paula/programacion web/html/Pag3/PagWeb03.HTML",
+		"/C/Users/estef/Documents/paula/programacion web/programacion_web-master/programacion_web-master/chapter_02/src/formularios/index.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/prueba web/WEB 1.HTML",
+		"/C/Users/estef/Documents/paula/programacion web/programacion_web-master/programacion_web-master/chapter_02/src/imagenes/index.html",
+		"/C/Users/estef/Documents/paula/programacion web/html/.HTML",
+		"/C/Users/estef/Documents/paula/programacion web/html/doctype",
+		"/C/Users/estef/Documents/paula/programacion web/programacion_web-master/programacion_web-master/chapter_02/src/estructura/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pag6/PagWeb06.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1200,
+								1200
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "doctype",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
